@@ -21,22 +21,22 @@
 ## Career Path
 
 ### 1. MuleSoft Instructor MuleSoft Dec 2020 - Present 
-● Youngest MuleSoft Certified Instructor. 
-● Working in the core MuleSoft Training team, for client enablement on multiple services.
+- Youngest MuleSoft Certified Instructor. 
+- Working in the core MuleSoft Training team, for client enablement on multiple services.
 
 ### 2. Senior Corporate trainer Apisero March 2021 - Present 
-● Working on a sustainable employee enablement program that meets the required scalability. 
-● Started working on DevOps - so as to gain a better understanding of multiple deployment options.
+- Working on a sustainable employee enablement program that meets the required scalability. 
+- Started working on DevOps - so as to gain a better understanding of multiple deployment options.
 
 ### 3. Corporate Trainer and Solution Consultant Apisero Feb 2020 - Feb 2021 
-● Working as a part of the Corporate Training team, training on Platform Architecture, Integration Solution, Dataweave, API design and Fundamental. 
-● Handle top-performing clients spread across multiple domains. Trained over 600+ resources in 2020. 
-● Got 5x Ace Award, 2x Raving reviews and Good deed award, for quick enablement, delivery and client satisfaction. 
+- Working as a part of the Corporate Training team, training on Platform Architecture, Integration Solution, Dataweave, API design and Fundamental. 
+- Handle top-performing clients spread across multiple domains. Trained over 600+ resources in 2020. 
+- Got 5x Ace Award, 2x Raving reviews and Good deed award, for quick enablement, delivery and client satisfaction. 
 
 ### 4. Middleware and API management Trainer Infosys Dec 2017 - Feb 2020 
-● Worked with multiple practices within the Enterprise Application Integration Service unit. Experienced in TIBCO, Apigee and even started and established team for cloud-native development, MuleSoft and RedHat practices. Delivered sessions on the fundamentals of Python, RDBMS and microservices. 
-● Trained over 2.5k participants across multiple technologies 
-● Got Track Champion and Insta Award in Infosys, given for extraordinary and impactful performance.
+- Worked with multiple practices within the Enterprise Application Integration Service unit. Experienced in TIBCO, Apigee and even started and established team for cloud-native development, MuleSoft and RedHat practices. Delivered sessions on the fundamentals of Python, RDBMS and microservices. 
+- Trained over 2.5k participants across multiple technologies 
+- Got Track Champion and Insta Award in Infosys, given for extraordinary and impactful performance.
 
 ## Self Initiated Projects
 - Content prevention:- In order to prevent the unautherised sharing of resources, I developed an application that tracks the resources in most popular social networking applications.
