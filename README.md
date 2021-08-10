@@ -2,8 +2,18 @@
 
 
 <table >
-  <tr>    
-    <td> I'm a learner who is passionate about acquiring new skill-set and sharing my knowledge with the community. The primary skill set involves working with Middleware and API management tools. Acquired skill includes working with MuleSoft, TIBCO, Apigee, Linux and python. Recently found my interest to work in the DevOps domain and welcome all of your inputs that can help me to gain better knowledge and understanding for the same. Open to discussion on the changing landscape of IT.</td>    
+  <tr>   
+     <td>
+     I'm a learner who is passionate about acquiring new skill-set and sharing my knowledge with the community. The primary skill set involves working with Middleware and API management tools. Acquired skill includes working with MuleSoft, TIBCO, Apigee, Linux and python. Recently found my interest to work in the DevOps domain and welcome all of your inputs that can help me to gain better knowledge and understanding for the same. 
+       </td>
+  </tr>
+  
+  
+  
+  <tr>
+  <td>
+  Well, I’m currently working as Senior Corporate Trainer at Apisero,India , where I handle our top performing client and internal enablement. Also I work for Mulesoft as a Technical Instructor and handle training for Integration Architect, Dataweave, RTF on Virtual Machines and Fundamental Coursese. Prior to this, I worked at an organisation  responsible for multiple practise within Enterprise Application Integration Service unit.To name some worked on iPASS solution and API management package in domains like Healthcare , retail and Banking. And while I really enjoyed the work that I do, I’d love the chance to interact with new people. 
+  </td>
   </tr>
 </table>
 
