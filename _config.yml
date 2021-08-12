@@ -3,6 +3,5 @@ show_downloads: null
 title: [Abhinav Patel]
 footer: false
 logo: /assets/img/test_image
-github:
-  is_project_page: false
+
 
