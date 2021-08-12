@@ -14,9 +14,9 @@
 </table>
 
 ## Event as a Speaker:
-- Hong Kong Virtual Meetup 06: Deep Dive of Parallel For Each, Batch Processing and Object Store.
-- Chandigarh Virtual MuleSoft Meetup 03 - CI/CD development in MuleSoft
-- Beer, Biryani, & \[tech] Bytes: APAC VOL 03 - Presented HTML Rendering Using DataWeave in MuleSoft
+- <a href="https://www.youtube.com/watch?v=65iQIgOEzzc">Hong Kong Virtual Meetup 06: Deep Dive of Parallel For Each, Batch Processing and Object Store</a>.
+- <a href="https://www.youtube.com/watch?v=bnHnBqMgWT0&t=1596s">Chandigarh Virtual MuleSoft Meetup 03 - CI/CD development in MuleSoft</a>
+- <a href="https://www.youtube.com/watch?v=D-bGbxrxcdg">Beer, Biryani, & \[tech] Bytes: APAC VOL 03 - Presented HTML Rendering Using DataWeave in MuleSoft</a>
 
 ## Career Path
 
