@@ -73,4 +73,4 @@ helped us to enhance our services.
 
 ### Find me around the web 🌎: 
 - Sharing updates on <a href="https://www.linkedin.com/in/abhinav-patel">LinkedIn</a> 💼
-- Blogs written on <a href="https://www.apisero.com/?s=abhinav"> DataWeave </a>
+- Blogs written on <a href="https://apisero.com/?s=abhinav+patel"> DataWeave </a>
