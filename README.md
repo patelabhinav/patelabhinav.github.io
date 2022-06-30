@@ -8,7 +8,8 @@
   </tr>
   <tr>
   <td>
-  Well, I’m currently working as Senior Integration developer at Billennium, where I handle our one of the top performing client throughout their digitalization journey. Primary responsibilities involves API design and developemt using MuleSoft stack. 
+I’m currently working as Senior Integration developer at Billennium, where I handle our one of the top performing client throughout their digitalization journey. Primary responsibilities involves API design and developemt using MuleSoft stack. This involves migrating their existing services to MuleSoft and to build new ones. Their existing technology ecosystem is comprised of a wide range of products. Data spread among in-house legacy systems, Salesforce, No-SQL databases, File Servers, CRM systems and Microsoft AD. The solution designed should be future-ready keeping in mind the IT landscape for mergers and acquisitions. Resulting in better customer experience and fewer manual efforts from developers and architects side. Mule's lightweight efficient architecture allows faster rollout. Support rapidly evolving IT 
+infrastructure through multiple transition points. Delivered bulletproof reliability.
   </td>
   </tr>
 </table>
@@ -47,12 +48,11 @@
 - **Microservice development using swagger**: - Demonstrated concept of “API led connectivity” and “Spec driven development” through automated development of a flask application from the swagger file on a click. The application was then hosted on GCP and a security layer was later added using Apigee. Further implemented Docker to demonstrate the true potential of Microservice Architecture. 
 - **Automatic Evaluation of MuleSoft and Apigee**: - Part of the internal training process need participants to be evaluated through project-oriented assessments. Our team developed the automated evaluation tool for MuleSoft and Apigee to smoothen this process
 
-### Working as an Instructor
-- Working as Senior Corporate Trainer at Apisero,India , where I handle our top performing client and internal enablement. Also I work for Mulesoft as a Technical Instructor and handle training for Integration Architect, Dataweave, RTF on Virtual Machines and Fundamental Coursese. Prior to this, I worked at an organisation  responsible for multiple practise within Enterprise Application Integration Service unit.To name some worked on iPASS solution and API management package in domains like Healthcare , retail and Banking. And while I really enjoyed the work that I do, I’d love the chance to interact with new people. 
+### Working experience as an Instructor
+- Worked as Senior Corporate Trainer at Apisero,India , where I handle our top performing client and internal enablement. Also I worked for Mulesoft as a Technical Instructor and handle training for Integration Architect, Dataweave, RTF on Virtual Machines and Fundamental Coursese. Prior to this, I was at an organisation  responsible for multiple practise within Enterprise Application Integration Service unit.To name some worked on iPASS solution and API management package in domains like Healthcare , retail and Banking. And while I really enjoyed the work that I do, I’d love the chance to interact with new people. 
 
 
 ### Awards and Recognition
-- Got Ace award and Good Deed award for quick enablement working as Senior Corporate trainer.
 - Got Star Performer, 2x Raving reviews , 5x Ace Award and Good deed award, for quick enablement, delivery and client satisfaction working as Solution consultant and Corporate trainer. 
 - Got Track Champion and Insta Award in Infosys, given for extraordinary and impactful performance working as middleware integration trainer.
 
