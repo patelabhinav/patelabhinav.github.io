@@ -22,6 +22,21 @@ infrastructure through multiple transition points. Delivered bulletproof reliabi
 ## Career Path
 
 ### 1. Senior integration Developer @ Billennium September 2021 - Present
+- C4E team got set up which is responsible for creating APIs and handling different LOBs. 
+This was also responsible to improve reusability and create standardisation across the 
+organisation
+- Different systems, experience and process APIs are created and used across the 
+organisation. This helps us to create streamline the event flow and have better control and 
+visualisation
+- Following API design-first approach helped the client to better understand different 
+scenarios and evaluate corner cases. This helped in the development of a better and more 
+robust solution. Even help us to identify the bottleneck scenarios and eventually work to fix 
+them.
+- Introducing the team with additional capabilities available as MuleSoft services helped to 
+streamline multiple business processes within their organisation
+- Using the Exchange, Monitoring, Visualization and Alerting capabilities helped to involve 
+the business unit, non-technical members. This created a better feedback system. This in turn 
+helped us to enhance our services.
 
 ### 2. MuleSoft Instructor @ MuleSoft Dec 2020 - September 2021
 - Youngest MuleSoft Certified Instructor. 
