@@ -72,7 +72,6 @@ helped us to enhance our services.
 - Got Track Champion and Insta Award in Infosys, given for extraordinary and impactful performance working as middleware integration trainer.
 
 ### Find me around the web 🌎: 
-- Sharing updates on <a href="https://www.linkedin.com/in/abhinav-patel">LinkedIn</a> 💼
-- Blogs written on <a href="https://apisero.com/?s=abhinav+patel"> DataWeave </a>
-- Knowledge sharing on <a href="[https://apisero.com/?s=abhinav+patel](https://www.linkedin.com/company/world-of-microservices/)![image](https://github.com/patelabhinav/patelabhinav.github.io/assets/43550427/d1521bcd-5778-4f44-b94d-9d82ca514c41)
-"> DataWeave </a>
+- Sharing updates @ <a href="https://www.linkedin.com/in/abhinav-patel">LinkedIn</a> 💼
+- Blogs written @ <a href="https://apisero.com/?s=abhinav+patel"> DataWeave </a>
+- Knowledge sharing @ <a href="https://www.linkedin.com/company/world-of-microservices/"> World of Mocroservices </a>
